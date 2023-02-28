@@ -18,7 +18,7 @@ body {
   box-shadow: 30px 50px 80px rgba(0, 0, 0, 0.100202);
   border-radius: 15px;
   width: 540px;
-  height: 332px;
+  height: 350px;
 }
 
 span {
@@ -62,4 +62,26 @@ span {
 .butimg:hover {
   cursor: pointer;
   box-shadow: 0px 0px 40px #53ffaa;
+}
+
+@media (max-width: 376px) {
+  span {
+    font-size: 11px;
+    line-height: 15px;
+    letter-spacing: 3.45714px;
+  }
+  .result {
+    font-size: 18px;
+    line-height: 33px;
+    text-align: center;
+    letter-spacing: -0.257143px;
+  }
+  .img1 {
+    width: 295px;
+    height: 16px;
+  }
+  .card {
+    width: 340px;
+    height: 315px;
+  }
 }
