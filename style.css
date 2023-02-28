@@ -1,0 +1,27 @@
+body {
+  background-color: #202733;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+span {
+  font-family: "Manrope", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 13px;
+  line-height: 18px;
+  text-align: center;
+  letter-spacing: 4.08571px;
+  color: #53ffaa;
+}
+p {
+  font-family: "Manrope", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 13px;
+  line-height: 18px;
+  text-align: center;
+  letter-spacing: 4.08571px;
+  color: #53ffaa;
+}
