@@ -31,7 +31,19 @@ span {
   letter-spacing: 4.08571px;
   color: #53ffaa;
 }
-p {
+.result {
+  font-family: "Manrope", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 38px;
+  text-align: center;
+  letter-spacing: -0.3px;
+  color: #cee3e9;
+  width: 80%;
+  height: 15%;
+}
+.number {
   font-family: "Manrope", sans-serif;
   font-style: normal;
   font-weight: 800;
